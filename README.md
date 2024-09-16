@@ -1,6 +1,6 @@
 # projeto_youtube
 
-Projeto de video.
+Aplicativo que simula o básico da funcionalidades do Youtube.
 
 ## Getting Started
 
